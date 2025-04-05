@@ -1,0 +1,66 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Logs
+*.log
+
+# Visual Studio specific
+.vs/
+.vscode/
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# Auto-generated files
+*.generated.cs
+*.g.cs
+*.g.i.cs
+
+# Packages
+*.nupkg
+*.snupkg
+packages/
+
+# NuGet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Web App
+.azure/
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Backup & Report files
+*.bak
+*.swp
+*~$*
+
+# IDE-specific
+.idea/
+*.sln.iml
+
+# Others
+*.tmp
+*.temp
